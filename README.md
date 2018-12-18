@@ -1,2 +1,1 @@
-# tesseract-font-test
-Scripts for testing Tesseract OCR on different fonts
+# Some code for the course Current Topics in Digital Philology (5LN721)
