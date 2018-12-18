@@ -1,1 +1,3 @@
-# Some code for the course Current Topics in Digital Philology (5LN721)
+# Scripts for testing Tesseract OCR on different fonts
+
+A small project for Current Topics in Digital Philology (5LN721)
