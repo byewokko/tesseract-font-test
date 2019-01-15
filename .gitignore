@@ -1,5 +1,4 @@
-fonts/*tf
-fonts/*TF
+fonts/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
