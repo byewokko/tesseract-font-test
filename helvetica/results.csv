@@ -1,73 +1,91 @@
-,Font,Point size,WER,CER,txt,Weight,Width
-0,Helvetica Neue LT Pro 57 Condensed,10,1.0,0.8304947283049473,helvetica/txt/00.10.txt,5,7
-1,Helvetica Neue LT Pro 57 Condensed,16,0.7395833333333334,0.327140549273021,helvetica/txt/00.16.txt,5,7
-2,Helvetica Neue LT Pro 57 Condensed,22,0.13541666666666666,0.024311183144246355,helvetica/txt/00.22.txt,5,7
-3,Helvetica Neue LT Pro 57 Condensed,28,0.08333333333333333,0.010543390105433901,helvetica/txt/00.28.txt,5,7
-4,Helvetica Neue LT Pro 65 Medium,10,0.9739583333333334,0.7445255474452555,helvetica/txt/01.10.txt,6,5
-5,Helvetica Neue LT Pro 65 Medium,16,0.5360824742268041,0.17437145174371452,helvetica/txt/01.16.txt,6,5
-6,Helvetica Neue LT Pro 65 Medium,22,0.03125,0.006477732793522267,helvetica/txt/01.22.txt,6,5
-7,Helvetica Neue LT Pro 65 Medium,28,0.052083333333333336,0.0072992700729927005,helvetica/txt/01.28.txt,6,5
-8,Helvetica Neue LT Pro 55 Roman,10,0.96875,0.7607461476074615,helvetica/txt/02.10.txt,5,5
-9,Helvetica Neue LT Pro 55 Roman,16,0.671875,0.2935928629359286,helvetica/txt/02.16.txt,5,5
-10,Helvetica Neue LT Pro 55 Roman,22,0.5364583333333334,0.17179902755267423,helvetica/txt/02.22.txt,5,5
-11,Helvetica Neue LT Pro 55 Roman,28,0.036458333333333336,0.006482982171799027,helvetica/txt/02.28.txt,5,5
-12,Helvetica Neue LT Pro 23 Ultra Light Extended,10,1.0,1.0,helvetica/txt/03.10.txt,2,3
-13,Helvetica Neue LT Pro 23 Ultra Light Extended,16,1.0,1.0,helvetica/txt/03.16.txt,2,3
-14,Helvetica Neue LT Pro 23 Ultra Light Extended,22,1.0,1.0,helvetica/txt/03.22.txt,2,3
-15,Helvetica Neue LT Pro 23 Ultra Light Extended,28,1.0,1.0,helvetica/txt/03.28.txt,2,3
-16,Helvetica Neue LT Pro 45 Light,10,1.0,0.9870235198702352,helvetica/txt/04.10.txt,4,5
-17,Helvetica Neue LT Pro 45 Light,16,0.6458333333333334,0.30170316301703165,helvetica/txt/04.16.txt,4,5
-18,Helvetica Neue LT Pro 45 Light,22,0.2552083333333333,0.05753646677471637,helvetica/txt/04.22.txt,4,5
-19,Helvetica Neue LT Pro 45 Light,28,0.6145833333333334,0.18569131832797428,helvetica/txt/04.28.txt,4,5
-20,Helvetica Neue LT Pro 33 Thin Extended,10,1.0,1.0,helvetica/txt/05.10.txt,3,3
-21,Helvetica Neue LT Pro 33 Thin Extended,16,1.0,0.9894566098945661,helvetica/txt/05.16.txt,3,3
-22,Helvetica Neue LT Pro 33 Thin Extended,22,0.6822916666666666,0.24979724249797242,helvetica/txt/05.22.txt,3,3
-23,Helvetica Neue LT Pro 33 Thin Extended,28,0.671875,0.19757085020242915,helvetica/txt/05.28.txt,3,3
-24,Helvetica Neue LT Pro 97 Black Condensed,10,1.0,0.813463098134631,helvetica/txt/06.10.txt,9,7
-25,Helvetica Neue LT Pro 97 Black Condensed,16,0.5567010309278351,0.20809716599190284,helvetica/txt/06.16.txt,9,7
-26,Helvetica Neue LT Pro 97 Black Condensed,22,0.11458333333333333,0.038929440389294405,helvetica/txt/06.22.txt,9,7
-27,Helvetica Neue LT Pro 97 Black Condensed,28,0.421875,0.09296685529506872,helvetica/txt/06.28.txt,9,7
-28,Helvetica Neue LT Pro 37 Thin Condensed,10,1.0,1.0,helvetica/txt/07.10.txt,3,7
-29,Helvetica Neue LT Pro 37 Thin Condensed,16,1.0,1.0,helvetica/txt/07.16.txt,3,7
-30,Helvetica Neue LT Pro 37 Thin Condensed,22,0.8307692307692308,0.33171127331711275,helvetica/txt/07.22.txt,3,7
-31,Helvetica Neue LT Pro 37 Thin Condensed,28,0.7878787878787878,0.34144363341443634,helvetica/txt/07.28.txt,3,7
-32,Helvetica Neue LT Pro 63 Medium Extended,10,0.78125,0.4306569343065693,helvetica/txt/08.10.txt,6,3
-33,Helvetica Neue LT Pro 63 Medium Extended,16,0.4666666666666667,0.1281427412814274,helvetica/txt/08.16.txt,6,3
-34,Helvetica Neue LT Pro 63 Medium Extended,22,0.03125,0.006477732793522267,helvetica/txt/08.22.txt,6,3
-35,Helvetica Neue LT Pro 63 Medium Extended,28,0.010416666666666666,0.0032388663967611335,helvetica/txt/08.28.txt,6,3
-36,Helvetica Neue LT Pro 95 Black,10,0.953125,0.7153284671532847,helvetica/txt/09.10.txt,9,5
-37,Helvetica Neue LT Pro 95 Black,16,0.6040609137055838,0.22952149229521493,helvetica/txt/09.16.txt,9,5
-38,Helvetica Neue LT Pro 95 Black,22,0.140625,0.11435523114355231,helvetica/txt/09.22.txt,9,5
-39,Helvetica Neue LT Pro 95 Black,28,0.041666666666666664,0.00889967637540453,helvetica/txt/09.28.txt,9,5
-40,Helvetica Neue LT Pro 35 Thin,10,1.0,1.0,helvetica/txt/10.10.txt,3,5
-41,Helvetica Neue LT Pro 35 Thin,16,1.0,0.9497161394971614,helvetica/txt/10.16.txt,3,5
-42,Helvetica Neue LT Pro 35 Thin,22,0.9270833333333334,0.6512570965125709,helvetica/txt/10.22.txt,3,5
-43,Helvetica Neue LT Pro 35 Thin,28,0.7239583333333334,0.252614641995173,helvetica/txt/10.28.txt,3,5
-44,Helvetica Neue LT Pro 67 Medium Condensed,10,1.0,0.786699107866991,helvetica/txt/11.10.txt,6,7
-45,Helvetica Neue LT Pro 67 Medium Condensed,16,0.7083333333333334,0.2846715328467153,helvetica/txt/11.16.txt,6,7
-46,Helvetica Neue LT Pro 67 Medium Condensed,22,0.109375,0.015409570154095702,helvetica/txt/11.22.txt,6,7
-47,Helvetica Neue LT Pro 67 Medium Condensed,28,0.036458333333333336,0.006477732793522267,helvetica/txt/11.28.txt,6,7
-48,Helvetica Neue LT Pro 43 Light Extended,10,0.9947916666666666,0.7591240875912408,helvetica/txt/12.10.txt,4,3
-49,Helvetica Neue LT Pro 43 Light Extended,16,0.7395833333333334,0.3098134630981346,helvetica/txt/12.16.txt,4,3
-50,Helvetica Neue LT Pro 43 Light Extended,22,0.2552083333333333,0.043795620437956206,helvetica/txt/12.22.txt,4,3
-51,Helvetica Neue LT Pro 43 Light Extended,28,0.15104166666666666,0.021897810218978103,helvetica/txt/12.28.txt,4,3
-52,Helvetica Neue LT Pro 53 Extended,10,0.9479166666666666,0.6034063260340633,helvetica/txt/13.10.txt,5,3
-53,Helvetica Neue LT Pro 53 Extended,16,0.35714285714285715,0.09651257096512571,helvetica/txt/13.16.txt,5,3
-54,Helvetica Neue LT Pro 53 Extended,22,0.078125,0.01775625504439064,helvetica/txt/13.22.txt,5,3
-55,Helvetica Neue LT Pro 53 Extended,28,0.010416666666666666,0.0032388663967611335,helvetica/txt/13.28.txt,5,3
-56,Helvetica Neue LT Pro 27 Ultra Light Condensed,10,1.0,1.0,helvetica/txt/14.10.txt,2,7
-57,Helvetica Neue LT Pro 27 Ultra Light Condensed,16,1.0,1.0,helvetica/txt/14.16.txt,2,7
-58,Helvetica Neue LT Pro 27 Ultra Light Condensed,22,1.0,1.0,helvetica/txt/14.22.txt,2,7
-59,Helvetica Neue LT Pro 27 Ultra Light Condensed,28,1.0,0.9253852392538524,helvetica/txt/14.28.txt,2,7
-60,Helvetica Neue LT Pro 25 Ultra Light,10,1.0,1.0,helvetica/txt/15.10.txt,2,5
-61,Helvetica Neue LT Pro 25 Ultra Light,16,1.0,1.0,helvetica/txt/15.16.txt,2,5
-62,Helvetica Neue LT Pro 25 Ultra Light,22,1.0,1.0,helvetica/txt/15.22.txt,2,5
-63,Helvetica Neue LT Pro 25 Ultra Light,28,1.0,1.0,helvetica/txt/15.28.txt,2,5
-64,Helvetica Neue LT Pro 93 Black Extended,10,0.9336734693877551,0.6650641025641025,helvetica/txt/16.10.txt,9,3
-65,Helvetica Neue LT Pro 93 Black Extended,16,0.39285714285714285,0.1362530413625304,helvetica/txt/16.16.txt,9,3
-66,Helvetica Neue LT Pro 93 Black Extended,22,0.12307692307692308,0.027575020275750203,helvetica/txt/16.22.txt,9,3
-67,Helvetica Neue LT Pro 93 Black Extended,28,0.010416666666666666,0.0032388663967611335,helvetica/txt/16.28.txt,9,3
-68,Helvetica Neue LT Pro 47 Light Condensed,10,1.0,0.8726682887266829,helvetica/txt/17.10.txt,4,7
-69,Helvetica Neue LT Pro 47 Light Condensed,16,0.828125,0.48742903487429035,helvetica/txt/17.16.txt,4,7
-70,Helvetica Neue LT Pro 47 Light Condensed,22,0.3333333333333333,0.05677210056772101,helvetica/txt/17.22.txt,4,7
-71,Helvetica Neue LT Pro 47 Light Condensed,28,0.4583333333333333,0.09813463098134631,helvetica/txt/17.28.txt,4,7
+,Font id,Font,Point size,WER,CER,txt
+0,0,Helvetica Neue LT Pro 57 Condensed,10,1.0,0.8304947283049473,helvetica/txt/00.10.txt
+1,0,Helvetica Neue LT Pro 57 Condensed,16,0.7395833333333334,0.327140549273021,helvetica/txt/00.16.txt
+2,0,Helvetica Neue LT Pro 57 Condensed,22,0.13541666666666666,0.024311183144246355,helvetica/txt/00.22.txt
+3,0,Helvetica Neue LT Pro 57 Condensed,28,0.08333333333333333,0.010543390105433901,helvetica/txt/00.28.txt
+4,0,Helvetica Neue LT Pro 57 Condensed,34,0.03125,0.005668016194331984,helvetica/txt/00.34.txt
+5,1,Helvetica Neue LT Pro 65 Medium,10,0.9739583333333334,0.7445255474452555,helvetica/txt/01.10.txt
+6,1,Helvetica Neue LT Pro 65 Medium,16,0.5360824742268041,0.17437145174371452,helvetica/txt/01.16.txt
+7,1,Helvetica Neue LT Pro 65 Medium,22,0.03125,0.006477732793522267,helvetica/txt/01.22.txt
+8,1,Helvetica Neue LT Pro 65 Medium,28,0.052083333333333336,0.0072992700729927005,helvetica/txt/01.28.txt
+9,1,Helvetica Neue LT Pro 65 Medium,34,0.020833333333333332,0.004051863857374392,helvetica/txt/01.34.txt
+10,2,Helvetica Neue LT Pro 55 Roman,10,0.96875,0.7607461476074615,helvetica/txt/02.10.txt
+11,2,Helvetica Neue LT Pro 55 Roman,16,0.671875,0.2935928629359286,helvetica/txt/02.16.txt
+12,2,Helvetica Neue LT Pro 55 Roman,22,0.5364583333333334,0.17179902755267423,helvetica/txt/02.22.txt
+13,2,Helvetica Neue LT Pro 55 Roman,28,0.036458333333333336,0.006482982171799027,helvetica/txt/02.28.txt
+14,2,Helvetica Neue LT Pro 55 Roman,34,0.026041666666666668,0.005668016194331984,helvetica/txt/02.34.txt
+15,3,Helvetica Neue LT Pro 23 Ultra Light Extended,10,1.0,1.0,helvetica/txt/03.10.txt
+16,3,Helvetica Neue LT Pro 23 Ultra Light Extended,16,1.0,1.0,helvetica/txt/03.16.txt
+17,3,Helvetica Neue LT Pro 23 Ultra Light Extended,22,1.0,1.0,helvetica/txt/03.22.txt
+18,3,Helvetica Neue LT Pro 23 Ultra Light Extended,28,1.0,1.0,helvetica/txt/03.28.txt
+19,3,Helvetica Neue LT Pro 23 Ultra Light Extended,34,1.0,1.0,helvetica/txt/03.34.txt
+20,4,Helvetica Neue LT Pro 45 Light,10,1.0,0.9870235198702352,helvetica/txt/04.10.txt
+21,4,Helvetica Neue LT Pro 45 Light,16,0.6458333333333334,0.30170316301703165,helvetica/txt/04.16.txt
+22,4,Helvetica Neue LT Pro 45 Light,22,0.2552083333333333,0.05753646677471637,helvetica/txt/04.22.txt
+23,4,Helvetica Neue LT Pro 45 Light,28,0.6145833333333334,0.18569131832797428,helvetica/txt/04.28.txt
+24,4,Helvetica Neue LT Pro 45 Light,34,0.21354166666666666,0.038929440389294405,helvetica/txt/04.34.txt
+25,5,Helvetica Neue LT Pro 33 Thin Extended,10,1.0,1.0,helvetica/txt/05.10.txt
+26,5,Helvetica Neue LT Pro 33 Thin Extended,16,1.0,0.9894566098945661,helvetica/txt/05.16.txt
+27,5,Helvetica Neue LT Pro 33 Thin Extended,22,0.6822916666666666,0.24979724249797242,helvetica/txt/05.22.txt
+28,5,Helvetica Neue LT Pro 33 Thin Extended,28,0.671875,0.19757085020242915,helvetica/txt/05.28.txt
+29,5,Helvetica Neue LT Pro 33 Thin Extended,34,0.385,0.07542579075425791,helvetica/txt/05.34.txt
+30,6,Helvetica Neue LT Pro 97 Black Condensed,10,1.0,0.813463098134631,helvetica/txt/06.10.txt
+31,6,Helvetica Neue LT Pro 97 Black Condensed,16,0.5567010309278351,0.20809716599190284,helvetica/txt/06.16.txt
+32,6,Helvetica Neue LT Pro 97 Black Condensed,22,0.11458333333333333,0.038929440389294405,helvetica/txt/06.22.txt
+33,6,Helvetica Neue LT Pro 97 Black Condensed,28,0.421875,0.09296685529506872,helvetica/txt/06.28.txt
+34,6,Helvetica Neue LT Pro 97 Black Condensed,34,0.08333333333333333,0.018563357546408393,helvetica/txt/06.34.txt
+35,7,Helvetica Neue LT Pro 37 Thin Condensed,10,1.0,1.0,helvetica/txt/07.10.txt
+36,7,Helvetica Neue LT Pro 37 Thin Condensed,16,1.0,1.0,helvetica/txt/07.16.txt
+37,7,Helvetica Neue LT Pro 37 Thin Condensed,22,0.8307692307692308,0.33171127331711275,helvetica/txt/07.22.txt
+38,7,Helvetica Neue LT Pro 37 Thin Condensed,28,0.7878787878787878,0.34144363341443634,helvetica/txt/07.28.txt
+39,7,Helvetica Neue LT Pro 37 Thin Condensed,34,0.946078431372549,0.7331711273317113,helvetica/txt/07.34.txt
+40,8,Helvetica Neue LT Pro 63 Medium Extended,10,0.78125,0.4306569343065693,helvetica/txt/08.10.txt
+41,8,Helvetica Neue LT Pro 63 Medium Extended,16,0.4666666666666667,0.1281427412814274,helvetica/txt/08.16.txt
+42,8,Helvetica Neue LT Pro 63 Medium Extended,22,0.03125,0.006477732793522267,helvetica/txt/08.22.txt
+43,8,Helvetica Neue LT Pro 63 Medium Extended,28,0.010416666666666666,0.0032388663967611335,helvetica/txt/08.28.txt
+44,8,Helvetica Neue LT Pro 63 Medium Extended,34,0.020833333333333332,0.004051863857374392,helvetica/txt/08.34.txt
+45,9,Helvetica Neue LT Pro 95 Black,10,0.953125,0.7153284671532847,helvetica/txt/09.10.txt
+46,9,Helvetica Neue LT Pro 95 Black,16,0.6040609137055838,0.22952149229521493,helvetica/txt/09.16.txt
+47,9,Helvetica Neue LT Pro 95 Black,22,0.140625,0.11435523114355231,helvetica/txt/09.22.txt
+48,9,Helvetica Neue LT Pro 95 Black,28,0.041666666666666664,0.00889967637540453,helvetica/txt/09.28.txt
+49,9,Helvetica Neue LT Pro 95 Black,34,0.03125,0.008084074373484237,helvetica/txt/09.34.txt
+50,10,Helvetica Neue LT Pro 35 Thin,10,1.0,1.0,helvetica/txt/10.10.txt
+51,10,Helvetica Neue LT Pro 35 Thin,16,1.0,0.9497161394971614,helvetica/txt/10.16.txt
+52,10,Helvetica Neue LT Pro 35 Thin,22,0.9270833333333334,0.6512570965125709,helvetica/txt/10.22.txt
+53,10,Helvetica Neue LT Pro 35 Thin,28,0.7239583333333334,0.252614641995173,helvetica/txt/10.28.txt
+54,10,Helvetica Neue LT Pro 35 Thin,34,0.8247422680412371,0.33781645569620256,helvetica/txt/10.34.txt
+55,11,Helvetica Neue LT Pro 67 Medium Condensed,10,1.0,0.786699107866991,helvetica/txt/11.10.txt
+56,11,Helvetica Neue LT Pro 67 Medium Condensed,16,0.7083333333333334,0.2846715328467153,helvetica/txt/11.16.txt
+57,11,Helvetica Neue LT Pro 67 Medium Condensed,22,0.109375,0.015409570154095702,helvetica/txt/11.22.txt
+58,11,Helvetica Neue LT Pro 67 Medium Condensed,28,0.036458333333333336,0.006477732793522267,helvetica/txt/11.28.txt
+59,11,Helvetica Neue LT Pro 67 Medium Condensed,34,0.052083333333333336,0.006488240064882401,helvetica/txt/11.34.txt
+60,12,Helvetica Neue LT Pro 43 Light Extended,10,0.9947916666666666,0.7591240875912408,helvetica/txt/12.10.txt
+61,12,Helvetica Neue LT Pro 43 Light Extended,16,0.7395833333333334,0.3098134630981346,helvetica/txt/12.16.txt
+62,12,Helvetica Neue LT Pro 43 Light Extended,22,0.2552083333333333,0.043795620437956206,helvetica/txt/12.22.txt
+63,12,Helvetica Neue LT Pro 43 Light Extended,28,0.15104166666666666,0.021897810218978103,helvetica/txt/12.28.txt
+64,12,Helvetica Neue LT Pro 43 Light Extended,34,0.16666666666666666,0.025952960259529603,helvetica/txt/12.34.txt
+65,13,Helvetica Neue LT Pro 53 Extended,10,0.9479166666666666,0.6034063260340633,helvetica/txt/13.10.txt
+66,13,Helvetica Neue LT Pro 53 Extended,16,0.35714285714285715,0.09651257096512571,helvetica/txt/13.16.txt
+67,13,Helvetica Neue LT Pro 53 Extended,22,0.078125,0.01775625504439064,helvetica/txt/13.22.txt
+68,13,Helvetica Neue LT Pro 53 Extended,28,0.010416666666666666,0.0032388663967611335,helvetica/txt/13.28.txt
+69,13,Helvetica Neue LT Pro 53 Extended,34,0.03125,0.005672609400324149,helvetica/txt/13.34.txt
+70,14,Helvetica Neue LT Pro 27 Ultra Light Condensed,10,1.0,1.0,helvetica/txt/14.10.txt
+71,14,Helvetica Neue LT Pro 27 Ultra Light Condensed,16,1.0,1.0,helvetica/txt/14.16.txt
+72,14,Helvetica Neue LT Pro 27 Ultra Light Condensed,22,1.0,1.0,helvetica/txt/14.22.txt
+73,14,Helvetica Neue LT Pro 27 Ultra Light Condensed,28,1.0,0.9253852392538524,helvetica/txt/14.28.txt
+74,14,Helvetica Neue LT Pro 27 Ultra Light Condensed,34,1.0,0.9975669099756691,helvetica/txt/14.34.txt
+75,15,Helvetica Neue LT Pro 25 Ultra Light,10,1.0,1.0,helvetica/txt/15.10.txt
+76,15,Helvetica Neue LT Pro 25 Ultra Light,16,1.0,1.0,helvetica/txt/15.16.txt
+77,15,Helvetica Neue LT Pro 25 Ultra Light,22,1.0,1.0,helvetica/txt/15.22.txt
+78,15,Helvetica Neue LT Pro 25 Ultra Light,28,1.0,1.0,helvetica/txt/15.28.txt
+79,15,Helvetica Neue LT Pro 25 Ultra Light,34,1.0,0.9829683698296837,helvetica/txt/15.34.txt
+80,16,Helvetica Neue LT Pro 93 Black Extended,10,0.9336734693877551,0.6650641025641025,helvetica/txt/16.10.txt
+81,16,Helvetica Neue LT Pro 93 Black Extended,16,0.39285714285714285,0.1362530413625304,helvetica/txt/16.16.txt
+82,16,Helvetica Neue LT Pro 93 Black Extended,22,0.12307692307692308,0.027575020275750203,helvetica/txt/16.22.txt
+83,16,Helvetica Neue LT Pro 93 Black Extended,28,0.010416666666666666,0.0032388663967611335,helvetica/txt/16.28.txt
+84,16,Helvetica Neue LT Pro 93 Black Extended,34,0.22916666666666666,0.05344129554655871,helvetica/txt/16.34.txt
+85,17,Helvetica Neue LT Pro 47 Light Condensed,10,1.0,0.8726682887266829,helvetica/txt/17.10.txt
+86,17,Helvetica Neue LT Pro 47 Light Condensed,16,0.828125,0.48742903487429035,helvetica/txt/17.16.txt
+87,17,Helvetica Neue LT Pro 47 Light Condensed,22,0.3333333333333333,0.05677210056772101,helvetica/txt/17.22.txt
+88,17,Helvetica Neue LT Pro 47 Light Condensed,28,0.4583333333333333,0.09813463098134631,helvetica/txt/17.28.txt
+89,17,Helvetica Neue LT Pro 47 Light Condensed,34,0.36597938144329895,0.2197092084006462,helvetica/txt/17.34.txt
